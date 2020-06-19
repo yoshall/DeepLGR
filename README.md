@@ -1,8 +1,4 @@
-# DeepLGR
-Pytorch Implement of  DeepLGR, ECML-PKDD-19
-
-
-# DeepLGR: Revisiting Convolutional Neural Networks for Citywide Crowd Flow Analytics. 
+# DeepLGR 
 In this study, we have revisited the CNN approaches for citywide crowd flow analytics and identified the drawbacks of existing arts. To overcome these challenges, we present a new framework named DeepLGR.
 
 *This is an easy implement of DeepLGR using Pytorch 1.1.0, tested on Ubuntu 16.04 with a RTX 2080Ti GPU.*
