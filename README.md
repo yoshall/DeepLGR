@@ -9,7 +9,7 @@ If you find our code useful for your research, please cite our paper (preprint a
 @inproceedings{liang2020revisit,
   title={Revisiting Convolutional Neural Networks for Citywide Crowd Flow Analytics},
   author={Liang, Yuxuan and Ouyang, Kun and Wang, Yiwei and Liu, Ye and Zhang, Junbo and Zheng, Yu and Rosenblum, David S.},
-  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  booktitle={The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
   year={2020},
   organization={Springer}
 }
